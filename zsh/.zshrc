@@ -29,7 +29,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -114,9 +114,9 @@ function git_root() {
 }
 
 BASE16_SHELL="$DOTFILES_PATH/misc/shell/base16-shell/"
-LIQUID_PROMPT="$DOTFILES_PATH/misc/shell/liquidprompt/"
-[ -n "$PS1" ] && [ -s "$BASE16_SHELL/profile_helper.sh" ] && eval "$($BASE16_SHELL/profile_helper.sh)"
-[ -n "$PS1" ] && [ -s "$LIQUID_PROMPT/liquidprompt" ] && source "$LIQUID_PROMPT/liquidprompt"
+#LIQUID_PROMPT="$DOTFILES_PATH/misc/shell/liquidprompt/"
+#[ -n "$PS1" ] && [ -s "$BASE16_SHELL/profile_helper.sh" ] && eval "$($BASE16_SHELL/profile_helper.sh)"
+#[ -n "$PS1" ] && [ -s "$LIQUID_PROMPT/liquidprompt" ] && source "$LIQUID_PROMPT/liquidprompt"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 [ -f ~/.zshrc.post ] && source ~/.zshrc.post
