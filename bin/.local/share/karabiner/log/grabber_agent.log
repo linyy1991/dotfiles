@@ -1,0 +1,106 @@
+[2024-06-13 23:11:42.603] [info] [grabber_agent] version 14.13.0
+[2024-06-13 23:11:48.891] [warning] [grabber_agent] device_open_forbidden
+[2024-06-14 13:31:16.360] [info] [grabber_agent] version 14.13.0
+[2024-06-14 13:31:16.403] [info] [grabber_agent] device_open_permitted
+[2024-06-14 13:31:26.348] [info] [grabber_agent] version 14.13.0
+[2024-06-14 13:31:26.379] [info] [grabber_agent] device_open_permitted
+[2024-06-14 13:51:18.424] [info] [grabber_agent] version 14.13.0
+[2024-06-14 13:51:18.471] [info] [grabber_agent] device_open_permitted
+[2024-06-14 13:51:28.409] [info] [grabber_agent] version 14.13.0
+[2024-06-14 13:51:28.446] [info] [grabber_agent] device_open_permitted
+[2024-06-16 08:21:21.395] [info] [grabber_agent] version 14.13.0
+[2024-06-16 08:21:21.447] [info] [grabber_agent] device_open_permitted
+[2024-06-17 11:31:24.327] [info] [grabber_agent] version 14.13.0
+[2024-06-17 11:31:27.009] [info] [grabber_agent] device_open_permitted
+[2024-06-17 11:31:55.728] [info] [grabber_agent] version 14.13.0
+[2024-06-17 11:31:55.872] [info] [grabber_agent] device_open_permitted
+[2024-06-17 11:34:19.138] [info] [grabber_agent] version 14.13.0
+[2024-06-17 11:34:21.430] [info] [grabber_agent] device_open_permitted
+[2024-06-17 11:34:37.616] [info] [grabber_agent] version 14.13.0
+[2024-06-17 11:34:37.665] [info] [grabber_agent] device_open_permitted
+[2024-06-17 13:40:02.517] [info] [grabber_agent] version 14.13.0
+[2024-06-17 13:40:02.550] [info] [grabber_agent] device_open_permitted
+[2024-06-17 13:40:12.747] [info] [grabber_agent] version 14.13.0
+[2024-06-17 13:40:12.777] [info] [grabber_agent] device_open_permitted
+[2024-06-17 13:48:55.096] [info] [grabber_agent] version 14.13.0
+[2024-06-17 13:48:55.174] [info] [grabber_agent] device_open_permitted
+[2024-06-17 13:49:12.277] [info] [grabber_agent] version 14.13.0
+[2024-06-17 13:49:12.310] [info] [grabber_agent] device_open_permitted
+[2024-06-17 14:17:53.065] [info] [grabber_agent] version 14.13.0
+[2024-06-17 14:17:53.119] [info] [grabber_agent] device_open_permitted
+[2024-06-17 14:18:04.070] [info] [grabber_agent] version 14.13.0
+[2024-06-17 14:18:04.146] [info] [grabber_agent] device_open_permitted
+[2024-07-01 11:21:27.262] [info] [grabber_agent] version 14.13.0
+[2024-07-01 11:21:28.154] [info] [grabber_agent] device_open_permitted
+[2024-07-01 11:21:46.323] [info] [grabber_agent] version 14.13.0
+[2024-07-01 11:21:46.373] [info] [grabber_agent] device_open_permitted
+[2024-07-11 07:43:16.042] [info] [grabber_agent] version 14.13.0
+[2024-07-11 07:43:16.081] [info] [grabber_agent] device_open_permitted
+[2024-07-11 07:43:24.251] [info] [grabber_agent] version 14.13.0
+[2024-07-11 07:43:24.276] [info] [grabber_agent] device_open_permitted
+[2024-07-11 15:48:06.681] [info] [grabber_agent] version 14.13.0
+[2024-07-11 15:48:06.719] [info] [grabber_agent] device_open_permitted
+[2024-07-11 15:48:21.931] [info] [grabber_agent] version 14.13.0
+[2024-07-11 15:48:21.966] [info] [grabber_agent] device_open_permitted
+[2024-07-18 15:37:24.571] [info] [grabber_agent] version 14.13.0
+[2024-07-18 15:37:25.218] [info] [grabber_agent] device_open_permitted
+[2024-07-18 15:37:31.136] [info] [grabber_agent] version 14.13.0
+[2024-07-18 15:37:31.154] [info] [grabber_agent] device_open_permitted
+[2024-08-12 19:49:41.092] [info] [grabber_agent] version 14.13.0
+[2024-08-12 19:49:41.142] [info] [grabber_agent] device_open_permitted
+[2024-08-12 19:49:50.494] [info] [grabber_agent] version 14.13.0
+[2024-08-12 19:49:50.516] [info] [grabber_agent] device_open_permitted
+[2024-08-16 13:49:41.089] [info] [grabber_agent] version 14.13.0
+[2024-08-16 13:49:41.161] [info] [grabber_agent] device_open_permitted
+[2024-08-16 13:49:49.307] [info] [grabber_agent] version 14.13.0
+[2024-08-16 13:49:49.324] [info] [grabber_agent] device_open_permitted
+[2024-08-30 17:33:48.576] [info] [grabber_agent] version 14.13.0
+[2024-08-30 17:33:48.623] [info] [grabber_agent] device_open_permitted
+[2024-08-30 17:34:00.728] [info] [grabber_agent] version 14.13.0
+[2024-08-30 17:34:00.753] [info] [grabber_agent] device_open_permitted
+[2024-09-18 08:05:33.752] [info] [grabber_agent] version 14.13.0
+[2024-09-18 08:05:36.720] [info] [grabber_agent] device_open_permitted
+[2024-09-18 08:05:43.183] [info] [grabber_agent] version 14.13.0
+[2024-09-18 08:05:43.324] [info] [grabber_agent] device_open_permitted
+[2024-09-18 10:18:59.463] [info] [grabber_agent] version 14.13.0
+[2024-09-18 10:18:59.512] [info] [grabber_agent] device_open_permitted
+[2024-09-18 10:19:07.976] [info] [grabber_agent] version 14.13.0
+[2024-09-18 10:19:07.993] [info] [grabber_agent] device_open_permitted
+[2024-09-18 11:30:26.309] [info] [grabber_agent] version 14.13.0
+[2024-09-18 11:30:44.114] [info] [grabber_agent] device_open_permitted
+[2024-09-18 11:33:15.427] [info] [grabber_agent] version 14.13.0
+[2024-09-18 11:33:15.992] [info] [grabber_agent] device_open_permitted
+[2024-09-19 14:02:03.659] [info] [grabber_agent] version 14.13.0
+[2024-09-19 14:02:03.710] [info] [grabber_agent] device_open_permitted
+[2024-09-19 14:02:11.479] [info] [grabber_agent] version 14.13.0
+[2024-09-19 14:02:11.500] [info] [grabber_agent] device_open_permitted
+[2024-10-21 10:20:56.599] [info] [grabber_agent] version 14.13.0
+[2024-10-21 10:20:59.823] [info] [grabber_agent] device_open_permitted
+[2024-10-24 10:42:04.712] [info] [grabber_agent] version 14.13.0
+[2024-10-24 10:42:04.767] [info] [grabber_agent] device_open_permitted
+[2024-10-24 10:42:16.268] [info] [grabber_agent] version 14.13.0
+[2024-10-24 10:42:16.295] [info] [grabber_agent] device_open_permitted
+[2024-10-28 11:13:07.737] [info] [grabber_agent] version 14.13.0
+[2024-10-28 11:13:08.464] [info] [grabber_agent] device_open_permitted
+[2024-10-28 11:13:22.653] [info] [grabber_agent] version 14.13.0
+[2024-10-28 11:13:22.689] [info] [grabber_agent] device_open_permitted
+[2024-10-28 13:32:42.308] [info] [grabber_agent] version 14.13.0
+[2024-10-28 13:32:44.906] [info] [grabber_agent] device_open_permitted
+[2024-10-28 13:32:51.324] [info] [grabber_agent] version 14.13.0
+[2024-10-28 13:32:51.341] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:10:53.069] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:10:53.205] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:11:01.246] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:11:01.264] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:22:41.233] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:22:41.266] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:22:49.254] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:22:49.278] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:50:41.585] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:50:41.644] [info] [grabber_agent] device_open_permitted
+[2024-10-30 16:50:51.628] [info] [grabber_agent] version 14.13.0
+[2024-10-30 16:50:51.657] [info] [grabber_agent] device_open_permitted
+[2024-11-04 09:49:07.266] [info] [grabber_agent] version 14.13.0
+[2024-11-04 09:49:07.286] [info] [grabber_agent] device_open_permitted
+[2024-11-04 09:49:14.408] [info] [grabber_agent] version 14.13.0
+[2024-11-04 09:49:14.423] [info] [grabber_agent] device_open_permitted

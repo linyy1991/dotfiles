@@ -44,5 +44,5 @@
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 [user]
-	name = 陈文龙
-	email = chenwenlong02@meituan.com
+	name = lyy17
+	email = lyy17@meitu.com

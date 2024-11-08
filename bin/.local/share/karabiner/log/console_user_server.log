@@ -1,0 +1,237 @@
+[2024-06-13 23:11:42.180] [info] [console_user_server] version 14.13.0
+[2024-06-13 23:11:42.388] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-13 23:11:42.389] [info] [console_user_server] grabber_client is started.
+[2024-06-13 23:11:42.389] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:43.390] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:44.462] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:45.467] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:46.483] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:47.530] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:48.603] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:49.604] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:50.604] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:51.679] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:52.745] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:53.812] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:54.878] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:55.946] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:57.015] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:58.083] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:11:59.083] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:00.156] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:01.157] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:02.158] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:03.159] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:04.163] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:05.232] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:06.302] [error] [console_user_server] grabber_client connect_failed: No such file or directory
+[2024-06-13 23:12:07.303] [info] [console_user_server] grabber_client is connected.
+[2024-06-13 23:12:07.593] [info] [console_user_server] core_configuration is updated.
+[2024-06-13 23:12:37.739] [info] [console_user_server] Check for updates...
+[2024-06-13 23:30:17.873] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-13 23:30:17.875] [info] [console_user_server] core_configuration is updated.
+[2024-06-13 23:35:19.762] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-13 23:35:19.763] [info] [console_user_server] core_configuration is updated.
+[2024-06-14 13:31:17.075] [info] [console_user_server] version 14.13.0
+[2024-06-14 13:31:26.881] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-14 13:31:26.884] [info] [console_user_server] grabber_client is started.
+[2024-06-14 13:31:26.886] [info] [console_user_server] grabber_client is connected.
+[2024-06-14 13:31:27.236] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-14 13:31:27.387] [info] [console_user_server] core_configuration is updated.
+[2024-06-14 13:31:57.771] [info] [console_user_server] Check for updates...
+[2024-06-14 13:51:19.069] [info] [console_user_server] version 14.13.0
+[2024-06-14 13:51:28.666] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-14 13:51:28.669] [info] [console_user_server] grabber_client is started.
+[2024-06-14 13:51:28.670] [info] [console_user_server] grabber_client is connected.
+[2024-06-14 13:51:29.062] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-14 13:51:29.146] [info] [console_user_server] core_configuration is updated.
+[2024-06-14 13:51:59.298] [info] [console_user_server] Check for updates...
+[2024-06-14 17:53:48.482] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-14 17:53:48.525] [info] [console_user_server] core_configuration is updated.
+[2024-06-14 17:59:16.048] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-14 17:59:16.050] [info] [console_user_server] core_configuration is updated.
+[2024-06-16 08:20:35.115] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-16 08:20:35.117] [info] [console_user_server] core_configuration is updated.
+[2024-06-16 08:21:20.999] [info] [console_user_server] version 14.13.0
+[2024-06-16 08:21:21.205] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-16 08:21:21.208] [info] [console_user_server] grabber_client is started.
+[2024-06-16 08:21:21.209] [info] [console_user_server] grabber_client is connected.
+[2024-06-16 08:21:21.460] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-16 08:21:21.460] [info] [console_user_server] core_configuration is updated.
+[2024-06-16 08:21:51.532] [info] [console_user_server] Check for updates...
+[2024-06-17 11:31:51.870] [info] [console_user_server] version 14.13.0
+[2024-06-17 11:31:55.660] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-17 11:31:55.883] [info] [console_user_server] grabber_client is started.
+[2024-06-17 11:31:56.074] [info] [console_user_server] grabber_client is connected.
+[2024-06-17 11:31:58.055] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-17 11:31:58.361] [info] [console_user_server] core_configuration is updated.
+[2024-06-17 11:32:28.640] [info] [console_user_server] Check for updates...
+[2024-06-17 11:34:37.174] [info] [console_user_server] version 14.13.0
+[2024-06-17 11:34:38.201] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-17 11:34:38.868] [info] [console_user_server] grabber_client is started.
+[2024-06-17 11:34:39.249] [info] [console_user_server] grabber_client is connected.
+[2024-06-17 11:34:41.980] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-17 11:34:42.057] [info] [console_user_server] core_configuration is updated.
+[2024-06-17 11:35:12.714] [info] [console_user_server] Check for updates...
+[2024-06-17 13:40:03.295] [info] [console_user_server] version 14.13.0
+[2024-06-17 13:40:12.740] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-17 13:40:12.742] [info] [console_user_server] grabber_client is started.
+[2024-06-17 13:40:12.744] [info] [console_user_server] grabber_client is connected.
+[2024-06-17 13:40:14.047] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-17 13:40:14.404] [info] [console_user_server] core_configuration is updated.
+[2024-06-17 13:40:44.574] [info] [console_user_server] Check for updates...
+[2024-06-17 13:49:11.048] [info] [console_user_server] version 14.13.0
+[2024-06-17 13:49:14.360] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-17 13:49:16.699] [info] [console_user_server] grabber_client is started.
+[2024-06-17 13:49:17.251] [info] [console_user_server] grabber_client is connected.
+[2024-06-17 13:49:19.225] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-17 13:49:19.551] [info] [console_user_server] core_configuration is updated.
+[2024-06-17 13:49:49.727] [info] [console_user_server] Check for updates...
+[2024-06-17 14:18:01.083] [info] [console_user_server] version 14.13.0
+[2024-06-17 14:18:06.696] [info] [console_user_server] on_console_changed: on_console:true
+[2024-06-17 14:18:06.704] [info] [console_user_server] grabber_client is started.
+[2024-06-17 14:18:06.713] [info] [console_user_server] grabber_client is connected.
+[2024-06-17 14:18:08.069] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-06-17 14:18:09.158] [info] [console_user_server] core_configuration is updated.
+[2024-06-17 14:18:39.753] [info] [console_user_server] Check for updates...
+[2024-07-01 11:21:44.161] [info] [console_user_server] version 14.13.0
+[2024-07-01 11:21:45.792] [info] [console_user_server] on_console_changed: on_console:true
+[2024-07-01 11:21:46.047] [info] [console_user_server] grabber_client is started.
+[2024-07-01 11:21:46.325] [info] [console_user_server] grabber_client is connected.
+[2024-07-01 11:21:49.192] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-07-01 11:21:49.762] [info] [console_user_server] core_configuration is updated.
+[2024-07-01 11:22:20.205] [info] [console_user_server] Check for updates...
+[2024-07-11 07:43:23.826] [info] [console_user_server] version 14.13.0
+[2024-07-11 07:43:24.411] [info] [console_user_server] on_console_changed: on_console:true
+[2024-07-11 07:43:24.417] [info] [console_user_server] grabber_client is started.
+[2024-07-11 07:43:24.418] [info] [console_user_server] grabber_client is connected.
+[2024-07-11 07:43:25.302] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-07-11 07:43:25.626] [info] [console_user_server] core_configuration is updated.
+[2024-07-11 07:43:55.764] [info] [console_user_server] Check for updates...
+[2024-07-11 15:48:21.072] [info] [console_user_server] version 14.13.0
+[2024-07-11 15:48:22.345] [info] [console_user_server] on_console_changed: on_console:true
+[2024-07-11 15:48:22.387] [info] [console_user_server] grabber_client is started.
+[2024-07-11 15:48:22.389] [info] [console_user_server] grabber_client is connected.
+[2024-07-11 15:48:23.940] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-07-11 15:48:24.232] [info] [console_user_server] core_configuration is updated.
+[2024-07-11 15:48:54.665] [info] [console_user_server] Check for updates...
+[2024-07-18 15:37:26.848] [info] [console_user_server] version 14.13.0
+[2024-07-18 15:37:31.286] [info] [console_user_server] on_console_changed: on_console:true
+[2024-07-18 15:37:31.288] [info] [console_user_server] grabber_client is started.
+[2024-07-18 15:37:31.290] [info] [console_user_server] grabber_client is connected.
+[2024-07-18 15:37:31.754] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-07-18 15:37:31.837] [info] [console_user_server] core_configuration is updated.
+[2024-07-18 15:38:01.936] [info] [console_user_server] Check for updates...
+[2024-08-12 19:49:42.206] [info] [console_user_server] version 14.13.0
+[2024-08-12 19:49:50.673] [info] [console_user_server] on_console_changed: on_console:true
+[2024-08-12 19:49:50.676] [info] [console_user_server] grabber_client is started.
+[2024-08-12 19:49:50.716] [info] [console_user_server] grabber_client is connected.
+[2024-08-12 19:49:51.005] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-08-12 19:49:51.127] [info] [console_user_server] core_configuration is updated.
+[2024-08-12 19:50:21.226] [info] [console_user_server] Check for updates...
+[2024-08-16 13:49:41.952] [info] [console_user_server] version 14.13.0
+[2024-08-16 13:49:49.257] [info] [console_user_server] on_console_changed: on_console:true
+[2024-08-16 13:49:49.259] [info] [console_user_server] grabber_client is started.
+[2024-08-16 13:49:49.261] [info] [console_user_server] grabber_client is connected.
+[2024-08-16 13:49:49.836] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-08-16 13:49:49.964] [info] [console_user_server] core_configuration is updated.
+[2024-08-16 13:50:20.062] [info] [console_user_server] Check for updates...
+[2024-08-30 17:34:00.079] [info] [console_user_server] version 14.13.0
+[2024-08-30 17:34:02.627] [info] [console_user_server] on_console_changed: on_console:true
+[2024-08-30 17:34:02.962] [info] [console_user_server] grabber_client is started.
+[2024-08-30 17:34:03.123] [info] [console_user_server] grabber_client is connected.
+[2024-08-30 17:34:03.596] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-08-30 17:34:04.042] [info] [console_user_server] core_configuration is updated.
+[2024-08-30 17:34:34.564] [info] [console_user_server] Check for updates...
+[2024-09-04 13:15:08.349] [error] [console_user_server] grabber_client error: Connection reset by peer
+[2024-09-04 13:15:08.351] [info] [console_user_server] grabber_client is closed.
+[2024-09-04 13:15:09.502] [info] [console_user_server] grabber_client is connected.
+[2024-09-04 13:15:10.089] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-09-04 13:15:10.251] [info] [console_user_server] core_configuration is updated.
+[2024-09-04 13:15:40.527] [info] [console_user_server] Check for updates...
+[2024-09-18 08:05:40.587] [info] [console_user_server] version 14.13.0
+[2024-09-18 08:05:44.919] [info] [console_user_server] on_console_changed: on_console:true
+[2024-09-18 08:05:45.404] [info] [console_user_server] grabber_client is started.
+[2024-09-18 08:05:45.408] [info] [console_user_server] grabber_client is connected.
+[2024-09-18 08:05:47.293] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-09-18 08:05:48.421] [info] [console_user_server] core_configuration is updated.
+[2024-09-18 08:06:18.562] [info] [console_user_server] Check for updates...
+[2024-09-18 10:19:03.579] [info] [console_user_server] version 14.13.0
+[2024-09-18 10:19:07.894] [info] [console_user_server] on_console_changed: on_console:true
+[2024-09-18 10:19:08.219] [info] [console_user_server] grabber_client is started.
+[2024-09-18 10:19:08.262] [info] [console_user_server] grabber_client is connected.
+[2024-09-18 10:19:08.805] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-09-18 10:19:09.007] [info] [console_user_server] core_configuration is updated.
+[2024-09-18 10:19:39.152] [info] [console_user_server] Check for updates...
+[2024-09-18 11:32:06.347] [info] [console_user_server] version 14.13.0
+[2024-09-18 11:33:15.479] [info] [console_user_server] on_console_changed: on_console:true
+[2024-09-18 11:33:15.711] [info] [console_user_server] grabber_client is started.
+[2024-09-18 11:33:15.727] [info] [console_user_server] grabber_client is connected.
+[2024-09-18 11:33:32.563] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-09-18 11:33:33.132] [info] [console_user_server] core_configuration is updated.
+[2024-09-18 11:34:09.186] [info] [console_user_server] Check for updates...
+[2024-09-19 14:02:10.755] [info] [console_user_server] version 14.13.0
+[2024-09-19 14:02:12.043] [info] [console_user_server] on_console_changed: on_console:true
+[2024-09-19 14:02:12.207] [info] [console_user_server] grabber_client is started.
+[2024-09-19 14:02:12.217] [info] [console_user_server] grabber_client is connected.
+[2024-09-19 14:02:12.645] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-09-19 14:02:12.890] [info] [console_user_server] core_configuration is updated.
+[2024-09-19 14:02:42.996] [info] [console_user_server] Check for updates...
+[2024-10-21 10:20:56.575] [info] [console_user_server] version 14.13.0
+[2024-10-21 10:20:59.371] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-21 10:20:59.373] [info] [console_user_server] grabber_client is started.
+[2024-10-21 10:20:59.374] [info] [console_user_server] grabber_client is connected.
+[2024-10-21 10:21:00.601] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-21 10:21:00.602] [info] [console_user_server] core_configuration is updated.
+[2024-10-21 10:21:30.876] [info] [console_user_server] Check for updates...
+[2024-10-24 10:42:15.739] [info] [console_user_server] version 14.13.0
+[2024-10-24 10:42:16.274] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-24 10:42:16.371] [info] [console_user_server] grabber_client is started.
+[2024-10-24 10:42:16.409] [info] [console_user_server] grabber_client is connected.
+[2024-10-24 10:42:19.138] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-24 10:42:19.335] [info] [console_user_server] core_configuration is updated.
+[2024-10-24 10:42:49.519] [info] [console_user_server] Check for updates...
+[2024-10-28 11:13:20.030] [info] [console_user_server] version 14.13.0
+[2024-10-28 11:13:23.857] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-28 11:13:24.952] [info] [console_user_server] grabber_client is started.
+[2024-10-28 11:13:24.954] [info] [console_user_server] grabber_client is connected.
+[2024-10-28 11:13:27.972] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-28 11:13:28.916] [info] [console_user_server] core_configuration is updated.
+[2024-10-28 11:13:59.826] [info] [console_user_server] Check for updates...
+[2024-10-28 13:32:50.739] [info] [console_user_server] version 14.13.0
+[2024-10-28 13:32:53.119] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-28 13:32:53.963] [info] [console_user_server] grabber_client is started.
+[2024-10-28 13:32:53.977] [info] [console_user_server] grabber_client is connected.
+[2024-10-28 13:32:56.051] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-28 13:32:58.556] [info] [console_user_server] core_configuration is updated.
+[2024-10-28 13:33:28.772] [info] [console_user_server] Check for updates...
+[2024-10-30 16:10:56.877] [info] [console_user_server] version 14.13.0
+[2024-10-30 16:11:02.148] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-30 16:11:02.430] [info] [console_user_server] grabber_client is started.
+[2024-10-30 16:11:02.431] [info] [console_user_server] grabber_client is connected.
+[2024-10-30 16:11:02.794] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-30 16:11:02.916] [info] [console_user_server] core_configuration is updated.
+[2024-10-30 16:11:33.052] [info] [console_user_server] Check for updates...
+[2024-10-30 16:22:41.249] [info] [console_user_server] version 14.13.0
+[2024-10-30 16:22:49.185] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-30 16:22:49.186] [info] [console_user_server] grabber_client is started.
+[2024-10-30 16:22:49.188] [info] [console_user_server] grabber_client is connected.
+[2024-10-30 16:22:49.614] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-30 16:22:49.614] [info] [console_user_server] core_configuration is updated.
+[2024-10-30 16:23:19.811] [info] [console_user_server] Check for updates...
+[2024-10-30 16:50:50.950] [info] [console_user_server] version 14.13.0
+[2024-10-30 16:50:53.182] [info] [console_user_server] on_console_changed: on_console:true
+[2024-10-30 16:50:53.186] [info] [console_user_server] grabber_client is started.
+[2024-10-30 16:50:53.268] [info] [console_user_server] grabber_client is connected.
+[2024-10-30 16:50:55.289] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-10-30 16:50:56.290] [info] [console_user_server] core_configuration is updated.
+[2024-10-30 16:51:27.196] [info] [console_user_server] Check for updates...
+[2024-11-04 09:49:11.028] [info] [console_user_server] version 14.13.0
+[2024-11-04 09:49:15.908] [info] [console_user_server] on_console_changed: on_console:true
+[2024-11-04 09:49:16.151] [info] [console_user_server] grabber_client is started.
+[2024-11-04 09:49:16.154] [info] [console_user_server] grabber_client is connected.
+[2024-11-04 09:49:16.501] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-11-04 09:49:16.703] [info] [console_user_server] core_configuration is updated.
+[2024-11-04 09:49:46.778] [info] [console_user_server] Check for updates...
+[2024-11-08 22:23:27.613] [info] [console_user_server] Load /Users/linyingyi/.config/karabiner/karabiner.json...
+[2024-11-08 22:23:27.617] [info] [console_user_server] core_configuration is updated.
